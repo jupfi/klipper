@@ -1,8 +1,12 @@
+Fork that includes the G68/G69 code from [DeltaMaker](https://github.com/Klipper3d/klipper/compare/master...DeltaMaker:klipper:master)
+
+---
+
 Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 
-https://www.klipper3d.org/
+<https://www.klipper3d.org/>
 
 The Klipper firmware controls 3d-Printers. It combines the power of a
 general purpose computer with one or more micro-controllers. See the
